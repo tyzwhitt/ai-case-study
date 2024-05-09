@@ -1,8 +1,8 @@
-### Synopsys Paves The Way For The EDA Industry With Its New AI tools
+# Synopsys Pioneering AI in Chip Design
 
 
 ## Overview and Origin
-# Synopsys, Inc. (Nasdaq: SNPS)
+### Synopsys, Inc. (Nasdaq: SNPS)
 
 Synopsys, Inc. (Nasdaq: SNPS) specializes in (EDA) electronic design automation and supplies tools and services to the semiconductor design and manufacturing industry. They are a highly profitable business that is publicly traded on NASDAQ and the S&P 500 with Revenues of $5.8 billion dollars and an operating income of $1.27 billion dollars as of 2023.  It was founded in 1986 by Aart de Geus, David Gregory and Bill Krieger and became public in 1992, but we are focusing on when they launched their commercial AI tools. This first AI driven tool was released in 2020 with DSO.ai. This was followed up wit a full-stack approach for chip designs in March 2023, called Synopsys.ai. Synopsys.ai copilot was launched shortly after in November 15, 2023.  To add to the understanding of leadership during this time only recently did COO Sassine Ghazi succeed Aart de Geus as CEO as of January of 2024. Also I will list out the names and positions of the original team that lead the development of DSO.ai, which won the ASPENCORE World Electronics Achievement Award for Most Innovative Product of 2020. This team I believe is important because they were able to launch the first AI powered product of their entire industry with such great success that they competitors now offer similar products and has now became of large focus of Synopsys itself. This team attributed the Idea of this project to being inspired by AlphaGo, the computer program that, in 2016, taught itself how to play the game of Go and went on to defeat human experts.
 
